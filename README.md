@@ -4,11 +4,6 @@ This is a simple Java Swing application for a user registration form. Users can 
 ## Table of Contents
 - Features
 - Technologies Used
-- Installation
-- Usage
-- Screenshots
-- Contributing
-- License
 - Download Apache POI
 ## Features
 - User-friendly registration form.
